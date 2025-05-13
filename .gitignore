@@ -1,0 +1,6 @@
+/allure-report/*
+/allure-results/*
+.metadata/*
+.settings/*
+.vscode/*
+/node_modules/*
